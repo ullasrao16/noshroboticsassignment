@@ -16,11 +16,9 @@ This repository contains solutions for the Embedded Systems Assignment consistin
 ├── Q1_STM32_LED_Blink/
 │   ├── main.c
 │   ├── stm32g0xx_hal_conf.h
-│   ├── README.md
 │
 ├── Q2_Sensor_Simulation/
 │   ├── main.c
-│   ├── README.md
 │
 └── README.md
 ```
