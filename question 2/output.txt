@@ -1,0 +1,554 @@
+Sensor Data Simulation Started
+
+========== Second 1 ==========
+
+Generated 4 byte(s): 11 62 B9 F6 
+Current Buffer Size = 4
+
+========== Second 2 ==========
+
+Generated 0 byte(s): 
+Current Buffer Size = 4
+
+========== Second 3 ==========
+
+Generated 3 byte(s): 1A 0C 0D 
+Current Buffer Size = 7
+
+========== Second 4 ==========
+
+Generated 3 byte(s): F2 41 98 
+Current Buffer Size = 10
+
+========== Second 5 ==========
+
+Generated 2 byte(s): 1D F0 
+Current Buffer Size = 12
+
+========== Second 6 ==========
+
+Generated 4 byte(s): 12 FB B9 78 
+Current Buffer Size = 16
+
+========== Second 7 ==========
+
+Generated 0 byte(s): 
+Current Buffer Size = 16
+
+========== Second 8 ==========
+
+Generated 5 byte(s): D1 AA 15 E9 A5 
+Current Buffer Size = 21
+
+========== Second 9 ==========
+
+Generated 2 byte(s): 7A 47 
+Current Buffer Size = 23
+
+========== Second 10 ==========
+
+Generated 4 byte(s): DC 00 B0 37 
+Current Buffer Size = 27
+
+----- 10 Second Check -----
+Buffer has only 27 bytes. Not enough data to print.
+
+========== Second 11 ==========
+
+Generated 5 byte(s): CA 43 5A CC 35 
+Current Buffer Size = 32
+
+========== Second 12 ==========
+
+Generated 4 byte(s): 64 2D B9 55 
+Current Buffer Size = 36
+
+========== Second 13 ==========
+
+Generated 5 byte(s): CC 50 1E 44 31 
+Current Buffer Size = 41
+
+========== Second 14 ==========
+
+Generated 2 byte(s): 15 DB 
+Current Buffer Size = 43
+
+========== Second 15 ==========
+
+Generated 3 byte(s): FF 80 3C 
+Current Buffer Size = 46
+
+========== Second 16 ==========
+
+Generated 3 byte(s): C8 F6 55 
+Current Buffer Size = 49
+
+========== Second 17 ==========
+
+Generated 4 byte(s): A6 8C 16 70 
+Current Buffer Size = 53
+
+========== Second 18 ==========
+
+Generated 1 byte(s): 70 
+Current Buffer Size = 54
+
+========== Second 19 ==========
+
+Generated 4 byte(s): 05 0C A1 32 
+Current Buffer Size = 58
+
+========== Second 20 ==========
+
+Generated 4 byte(s): F6 98 92 46 
+Current Buffer Size = 62
+
+----- 10 Second Check -----
+
+Latest 50 Bytes:
+12 FB B9 78 D1 AA 15 E9 A5 7A 47 DC 00 B0 37 CA 43 5A CC 35 64 2D B9 55 CC 50 1E 44 31 15 DB FF 80 3C C8 F6 55 A6 8C 16 70 70 05 0C A1 32 F6 98 92 46 
+50 bytes removed.
+Remaining Buffer Size = 12
+
+========== Second 21 ==========
+
+Generated 2 byte(s): D6 77 
+Current Buffer Size = 14
+
+========== Second 22 ==========
+
+Generated 4 byte(s): EB 52 C8 EA 
+Current Buffer Size = 18
+
+========== Second 23 ==========
+
+Generated 3 byte(s): 04 63 9B 
+Current Buffer Size = 21
+
+========== Second 24 ==========
+
+Generated 2 byte(s): B9 63 
+Current Buffer Size = 23
+
+========== Second 25 ==========
+
+Generated 4 byte(s): 45 79 10 15 
+Current Buffer Size = 27
+
+========== Second 26 ==========
+
+Generated 0 byte(s): 
+Current Buffer Size = 27
+
+========== Second 27 ==========
+
+Generated 3 byte(s): 1A F6 EE 
+Current Buffer Size = 30
+
+========== Second 28 ==========
+
+Generated 0 byte(s): 
+Current Buffer Size = 30
+
+========== Second 29 ==========
+
+Generated 4 byte(s): E4 E4 4E 2A 
+Current Buffer Size = 34
+
+========== Second 30 ==========
+
+Generated 5 byte(s): 24 A2 CF 10 F4 
+Current Buffer Size = 39
+
+----- 10 Second Check -----
+Buffer has only 39 bytes. Not enough data to print.
+
+========== Second 31 ==========
+
+Generated 1 byte(s): FA 
+Current Buffer Size = 40
+
+========== Second 32 ==========
+
+Generated 5 byte(s): 9B 5E 62 95 17 
+Current Buffer Size = 45
+
+========== Second 33 ==========
+
+Generated 2 byte(s): 35 5C 
+Current Buffer Size = 47
+
+========== Second 34 ==========
+
+Generated 3 byte(s): 46 71 29 
+Current Buffer Size = 50
+
+========== Second 35 ==========
+
+Generated 5 byte(s): 8B 20 81 D8 DC 
+Current Buffer Size = 55
+
+========== Second 36 ==========
+
+Generated 3 byte(s): BC 2B 8F 
+Current Buffer Size = 58
+
+========== Second 37 ==========
+
+Generated 5 byte(s): 4F 31 27 5F 26 
+Current Buffer Size = 63
+
+========== Second 38 ==========
+
+Generated 0 byte(s): 
+Current Buffer Size = 63
+
+========== Second 39 ==========
+
+Generated 2 byte(s): ED 5A 
+Current Buffer Size = 65
+
+========== Second 40 ==========
+
+Generated 0 byte(s): 
+Current Buffer Size = 65
+
+----- 10 Second Check -----
+
+Latest 50 Bytes:
+52 C8 EA 04 63 9B B9 63 45 79 10 15 1A F6 EE E4 E4 4E 2A 24 A2 CF 10 F4 FA 9B 5E 62 95 17 35 5C 46 71 29 8B 20 81 D8 DC BC 2B 8F 4F 31 27 5F 26 ED 5A 
+50 bytes removed.
+Remaining Buffer Size = 15
+
+========== Second 41 ==========
+
+Generated 2 byte(s): EF CF 
+Current Buffer Size = 17
+
+========== Second 42 ==========
+
+Generated 4 byte(s): 25 2B 55 6B 
+Current Buffer Size = 21
+
+========== Second 43 ==========
+
+Generated 5 byte(s): 7F FE 28 9F 7F 
+Current Buffer Size = 26
+
+========== Second 44 ==========
+
+Generated 0 byte(s): 
+Current Buffer Size = 26
+
+========== Second 45 ==========
+
+Generated 5 byte(s): E4 BD A6 73 14 
+Current Buffer Size = 31
+
+========== Second 46 ==========
+
+Generated 2 byte(s): A5 3B 
+Current Buffer Size = 33
+
+========== Second 47 ==========
+
+Generated 3 byte(s): CB FA AF 
+Current Buffer Size = 36
+
+========== Second 48 ==========
+
+Generated 2 byte(s): 54 67 
+Current Buffer Size = 38
+
+========== Second 49 ==========
+
+Generated 4 byte(s): 43 36 1E 68 
+Current Buffer Size = 42
+
+========== Second 50 ==========
+
+Generated 4 byte(s): 74 D3 FF F3 
+Current Buffer Size = 46
+
+----- 10 Second Check -----
+Buffer has only 46 bytes. Not enough data to print.
+
+========== Second 51 ==========
+
+Generated 5 byte(s): 27 92 50 28 0D 
+Current Buffer Size = 51
+
+========== Second 52 ==========
+
+Generated 0 byte(s): 
+Current Buffer Size = 51
+
+========== Second 53 ==========
+
+Generated 1 byte(s): B4 
+Current Buffer Size = 52
+
+========== Second 54 ==========
+
+Generated 4 byte(s): F9 AA 4D 35 
+Current Buffer Size = 56
+
+========== Second 55 ==========
+
+Generated 3 byte(s): 18 2F AF 
+Current Buffer Size = 59
+
+========== Second 56 ==========
+
+Generated 4 byte(s): 83 16 D9 C6 
+Current Buffer Size = 63
+
+========== Second 57 ==========
+
+Generated 5 byte(s): F7 2F AF 6B 02 
+Current Buffer Size = 68
+
+========== Second 58 ==========
+
+Generated 4 byte(s): 5E D4 D5 F0 
+Current Buffer Size = 72
+
+========== Second 59 ==========
+
+Generated 2 byte(s): FD FE 
+Current Buffer Size = 74
+
+========== Second 60 ==========
+
+Generated 1 byte(s): E2 
+Current Buffer Size = 75
+
+----- 10 Second Check -----
+
+Latest 50 Bytes:
+7F E4 BD A6 73 14 A5 3B CB FA AF 54 67 43 36 1E 68 74 D3 FF F3 27 92 50 28 0D B4 F9 AA 4D 35 18 2F AF 83 16 D9 C6 F7 2F AF 6B 02 5E D4 D5 F0 FD FE E2 
+50 bytes removed.
+Remaining Buffer Size = 25
+
+========== Second 61 ==========
+
+Generated 0 byte(s): 
+Current Buffer Size = 25
+
+========== Second 62 ==========
+
+Generated 5 byte(s): DC 5C 4E 11 5B 
+Current Buffer Size = 30
+
+========== Second 63 ==========
+
+Generated 0 byte(s): 
+Current Buffer Size = 30
+
+========== Second 64 ==========
+
+Generated 4 byte(s): 0A 36 C3 21 
+Current Buffer Size = 34
+
+========== Second 65 ==========
+
+Generated 5 byte(s): 89 6E 07 B8 1D 
+Current Buffer Size = 39
+
+========== Second 66 ==========
+
+Generated 2 byte(s): BB CB 
+Current Buffer Size = 41
+
+========== Second 67 ==========
+
+Generated 5 byte(s): 8F A0 C1 B3 9E 
+Current Buffer Size = 46
+
+========== Second 68 ==========
+
+Generated 5 byte(s): 0C 80 71 0D 5C 
+Current Buffer Size = 51
+
+========== Second 69 ==========
+
+Generated 5 byte(s): 5B 6D 29 C1 AD 
+Current Buffer Size = 56
+
+========== Second 70 ==========
+
+Generated 1 byte(s): F8 
+Current Buffer Size = 57
+
+----- 10 Second Check -----
+
+Latest 50 Bytes:
+F2 41 98 1D F0 D6 77 EB EF CF 25 2B 55 6B 7F FE 28 9F DC 5C 4E 11 5B 0A 36 C3 21 89 6E 07 B8 1D BB CB 8F A0 C1 B3 9E 0C 80 71 0D 5C 5B 6D 29 C1 AD F8 
+50 bytes removed.
+Remaining Buffer Size = 7
+
+========== Second 71 ==========
+
+Generated 4 byte(s): 54 07 FA C2 
+Current Buffer Size = 11
+
+========== Second 72 ==========
+
+Generated 0 byte(s): 
+Current Buffer Size = 11
+
+========== Second 73 ==========
+
+Generated 2 byte(s): DF 81 
+Current Buffer Size = 13
+
+========== Second 74 ==========
+
+Generated 5 byte(s): AA 52 FC 4B 13 
+Current Buffer Size = 18
+
+========== Second 75 ==========
+
+Generated 4 byte(s): E9 D3 BC 69 
+Current Buffer Size = 22
+
+========== Second 76 ==========
+
+Generated 4 byte(s): CA C6 12 25 
+Current Buffer Size = 26
+
+========== Second 77 ==========
+
+Generated 1 byte(s): 3B 
+Current Buffer Size = 27
+
+========== Second 78 ==========
+
+Generated 3 byte(s): E1 6E DF 
+Current Buffer Size = 30
+
+========== Second 79 ==========
+
+Generated 1 byte(s): C3 
+Current Buffer Size = 31
+
+========== Second 80 ==========
+
+Generated 2 byte(s): 4B 85 
+Current Buffer Size = 33
+
+----- 10 Second Check -----
+Buffer has only 33 bytes. Not enough data to print.
+
+========== Second 81 ==========
+
+Generated 1 byte(s): FE 
+Current Buffer Size = 34
+
+========== Second 82 ==========
+
+Generated 1 byte(s): 76 
+Current Buffer Size = 35
+
+========== Second 83 ==========
+
+Generated 3 byte(s): 0F C8 68 
+Current Buffer Size = 38
+
+========== Second 84 ==========
+
+Generated 2 byte(s): DB 18 
+Current Buffer Size = 40
+
+========== Second 85 ==========
+
+Generated 5 byte(s): AE D4 AD F3 9E 
+Current Buffer Size = 45
+
+========== Second 86 ==========
+
+Generated 3 byte(s): 05 C4 A6 
+Current Buffer Size = 48
+
+========== Second 87 ==========
+
+Generated 0 byte(s): 
+Current Buffer Size = 48
+
+========== Second 88 ==========
+
+Generated 1 byte(s): 87 
+Current Buffer Size = 49
+
+========== Second 89 ==========
+
+Generated 2 byte(s): 8A D9 
+Current Buffer Size = 51
+
+========== Second 90 ==========
+
+Generated 5 byte(s): 70 24 F7 65 22 
+Current Buffer Size = 56
+
+----- 10 Second Check -----
+
+Latest 50 Bytes:
+0D 54 07 FA C2 DF 81 AA 52 FC 4B 13 E9 D3 BC 69 CA C6 12 25 3B E1 6E DF C3 4B 85 FE 76 0F C8 68 DB 18 AE D4 AD F3 9E 05 C4 A6 87 8A D9 70 24 F7 65 22 
+50 bytes removed.
+Remaining Buffer Size = 6
+
+========== Second 91 ==========
+
+Generated 2 byte(s): DB 8E 
+Current Buffer Size = 8
+
+========== Second 92 ==========
+
+Generated 1 byte(s): A3 
+Current Buffer Size = 9
+
+========== Second 93 ==========
+
+Generated 2 byte(s): C6 7F 
+Current Buffer Size = 11
+
+========== Second 94 ==========
+
+Generated 0 byte(s): 
+Current Buffer Size = 11
+
+========== Second 95 ==========
+
+Generated 1 byte(s): 2D 
+Current Buffer Size = 12
+
+========== Second 96 ==========
+
+Generated 2 byte(s): B6 20 
+Current Buffer Size = 14
+
+========== Second 97 ==========
+
+Generated 3 byte(s): 29 25 45 
+Current Buffer Size = 17
+
+========== Second 98 ==========
+
+Generated 4 byte(s): 65 F0 57 14 
+Current Buffer Size = 21
+
+========== Second 99 ==========
+
+Generated 0 byte(s): 
+Current Buffer Size = 21
+
+========== Second 100 ==========
+
+Generated 0 byte(s): 
+Current Buffer Size = 21
+
+----- 10 Second Check -----
+Buffer has only 21 bytes. Not enough data to print.
+
+
+=== Code Execution Successful ===
